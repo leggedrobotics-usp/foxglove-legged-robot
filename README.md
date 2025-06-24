@@ -58,6 +58,7 @@ As mentioned above, this is a standard Foxglove extension. Thus, you can install
 ```bash
 git clone https://github.com/leggedrobotics-usp/foxglove-legged-robot.git
 cd foxglove-legged-robot
+npm install
 npm run local-install
 ```
 
